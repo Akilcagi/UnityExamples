@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e2766bce66e64d946b975de9292ddd5b
+timeCreated: 1445894202
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48830
+  packageName: 'Camo UI Elements: Urban'
+  packageVersion: 1.0
+  assetPath: Assets/DualCorStudios/CamoUI Urban/Prefabs/MainMenu.prefab
+  uploadId: 88542

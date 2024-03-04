@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42b411400d57bbc45942564cc0156d80
+timeCreated: 1445894198
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48830
+  packageName: 'Camo UI Elements: Urban'
+  packageVersion: 1.0
+  assetPath: Assets/DualCorStudios/CamoUI Urban/Prefabs/ActionButton.prefab
+  uploadId: 88542

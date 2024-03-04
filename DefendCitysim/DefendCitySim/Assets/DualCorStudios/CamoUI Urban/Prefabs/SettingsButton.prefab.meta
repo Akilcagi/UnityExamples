@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9e843f80d156a0b48ae9a4ca8a45f798
+timeCreated: 1445894220
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 48830
+  packageName: 'Camo UI Elements: Urban'
+  packageVersion: 1.0
+  assetPath: Assets/DualCorStudios/CamoUI Urban/Prefabs/SettingsButton.prefab
+  uploadId: 88542

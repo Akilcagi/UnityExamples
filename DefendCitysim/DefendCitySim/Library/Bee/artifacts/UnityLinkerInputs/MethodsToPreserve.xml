@@ -1,0 +1,45 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AnaMenu">
+			<method name="AyarlariAc"/>
+			<method name="OyunuKapat"/>
+			<method name="YeniOyunBaslat"/>
+		</type>
+		<type fullname="AyarlarKontrol">
+			<method name="CloseSettingsPanel"/>
+		</type>
+		<type fullname="ButtonSound">
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+			<method name="PlaySound"/>
+		</type>
+		<type fullname="CastleHealth">
+			<method name="ExitGame"/>
+			<method name="RestartGame"/>
+			<method name="ReturnToMainMenu"/>
+		</type>
+		<type fullname="TurretPlacer">
+			<method name="SelectTurretToPlace"/>
+			<method name="SelectTurretToPlace"/>
+			<method name="SelectTurretToPlace"/>
+			<method name="SelectTurretToPlace"/>
+			<method name="SelectTurretToPlace"/>
+		</type>
+		<type fullname="UIManager">
+			<method name="SetVolume"/>
+			<method name="ToggleSettingsPanel"/>
+		</type>
+	</assembly>
+</linker>
